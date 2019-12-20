@@ -1,26 +1,26 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Nu'man Nashif Annawwaf
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description:  Designs, talks, and Developers Android with <strong>Java</strong>, <strong>Kotlin</strong>, and <strong>Flutter</strong>. I share Develops tutorials, free resources and inspiration. Loves <a href="#">music</a> & gaming.
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: Designs, talks, and Developers Android with <strong>Java</strong>, <strong>Kotlin</strong>, and <strong>Flutter</strong>. I share Develops tutorials, free resources and inspiration. Loves <a href="#">music</a> & gaming.
 
 # Add your social links
 social:
   - platform: github
-    url: https://github.com/brianmaierjr
+    url: https://github.com/elhazent
   - platform: facebook
-    url: https://facebook.com/brianmaierjr
+    url: https://www.facebook.com/numanannawwaf
   - platform: twitter
-    url: https://twitter.com/brianmaierjr
+    url: https://twitter.com/elhazent
   - platform: linkedin
-    url: brianmaierjr
+    url: elhazent
 
 # General settings
-# url: http://brianmaierjr.github.com/uni
-# baseurl: "/uni" 
+url: http://sudo-elhazent.github.com/elhazent
+baseurl: "/elhazent" 
 markdown: kramdown
 sharing_image: share.jpg
 google_analytics: "UA-58263416-1" # google analytics tracking
