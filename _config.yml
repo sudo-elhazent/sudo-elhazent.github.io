@@ -1,12 +1,12 @@
 # Site
-name: John Doe
+name: Nu'man Nashif Annawwaf
 description: Just another website
 meta_description: Just another website
 logo: /assets/images/logo.png
 favicon: /assets/images/favicon.ico
 paginate: 6
 baseurl:
-email: 'hello@john.doe'
+email: 'elhazent.mail@gmail.com'
 google_analytics:
 disqus:
 sharethis:
@@ -14,13 +14,13 @@ sharethis:
 # Authors
 authors:
   john:
-    name: john
-    display_name: John Doe
+    name: Nu'man
+    display_name: Nu'man Nashif Annawwaf
     image: /assets/images/john.jpg
     email: hello@john.doe
     web: example.com
     twitter:
-    description: Hi, I am John Doe.
+    description: Hi, I am Nu'man Nashif Annawwaf.
 
 # Plugins
 plugins:
@@ -55,7 +55,7 @@ facebook:
 social:
 name: John Doe
 links:
-    - https://twitter.com/
-    - https://www.facebook.com/
-    - https://www.linkedin.com/
-    - https://github.com/
+    - https://twitter.com/elhazent
+    - https://www.facebook.com/numanannawwaf
+    - https://www.linkedin.com/in/elhazent
+    - https://github.com/elhazent
