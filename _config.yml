@@ -19,8 +19,8 @@ social:
     url: elhazent
 
 # General settings
-url: http://sudo-elhazent.github.com/elhazent
-baseurl: "/elhazent" 
+#url: http://sudo-elhazent.github.com/elhazent
+#baseurl: "/elhazent" 
 markdown: kramdown
 sharing_image: share.jpg
 google_analytics: "UA-58263416-1" # google analytics tracking
