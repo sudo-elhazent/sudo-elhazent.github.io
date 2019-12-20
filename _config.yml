@@ -1,34 +1,61 @@
-# Your Name or Company
-title: Nu'man Nashif Annawwaf
+# Site
+name: John Doe
+description: Just another website
+meta_description: Just another website
+logo: /assets/images/logo.png
+favicon: /assets/images/favicon.ico
+paginate: 6
+baseurl:
+email: 'hello@john.doe'
+google_analytics:
+disqus:
+sharethis:
 
-# Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+# Authors
+authors:
+  john:
+    name: john
+    display_name: John Doe
+    image: /assets/images/john.jpg
+    email: hello@john.doe
+    web: example.com
+    twitter:
+    description: Hi, I am John Doe.
 
-# A brief blurb about yourself
-content: Designs, talks, and Developer Android with Java, Kotlin, and Flutter. I share develops tutorials, free resources and inspiration. Loves music & gaming.
+# Plugins
+plugins:
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-seo-tag
 
-# Add your social links
-social:
-  - platform: github
-    url: https://github.com/elhazent
-  - platform: facebook
-    url: https://facebook.com/numanannawwaf
-  - platform: twitter
-    url: https://twitter.com/elhazent
-  - platform: linkedin
-    url: elhazent
+permalinks: pretty
 
-# General settings
-# url: http://brianmaierjr.github.com/uni
-# baseurl: "/uni" 
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: 'category/:name/'
+
+# Other
 markdown: kramdown
-sharing_image: share.jpg
-google_analytics: "UA-58263416-1" # google analytics tracking
+highlighter: rouge
 
-#### LAYOUT OPTIONS #####
+# SEO
+twitter:
+  username: john
+  card: summary
 
-# Half layout
-half_side: right
+facebook:
+  app_id:
+  publisher: john.com
+  admins:
 
-# Full layout
-full_text_position: right # left, right or center
+social:
+name: John Doe
+links:
+    - https://twitter.com/
+    - https://www.facebook.com/
+    - https://www.linkedin.com/
+    - https://github.com/
