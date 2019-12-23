@@ -3,7 +3,7 @@ name: Nu'man Nashif Annawwaf
 description: Just another website
 meta_description: Just another website
 logo: /assets/images/logo.png
-favicon: /assets/images/favicon.ico
+favicon: /assets/images/photo.ico
 paginate: 6
 baseurl:
 email: 'elhazent.mail@gmail.com'
@@ -16,8 +16,8 @@ authors:
   john:
     name: Nu'man
     display_name: Nu'man Nashif Annawwaf
-    image: /assets/images/john.jpg
-    email: hello@john.doe
+    image: /assets/images/photo.jpg
+    email: elhazent.mail@gmail.com
     web: example.com
     twitter:
     description: Hi, I am Nu'man Nashif Annawwaf.
